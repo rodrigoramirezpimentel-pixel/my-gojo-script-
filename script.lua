@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://scriptblox.com/raw/Universal-Script-TSB-GOJO-SCRIPT-UPDATE-33472"))()
+https://scriptblox.com/raw/Universal-Script-TSB-GOJO-SCRIPT-UPDATE-33472
